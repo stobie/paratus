@@ -1,2 +1,2 @@
 # paratus
-sw eng knowledge base of resources
+sw eng knowledge resources
