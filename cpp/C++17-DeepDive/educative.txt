@@ -1,1 +1,1 @@
-
+a synopsis of https://www.educative.io/courses/cpp-17-in-detail-a-deep-dive
